@@ -11,7 +11,6 @@ A powerful and user-friendly Python application that performs sentiment analysis
 
 
 ## Csv Tests
-Movie_Review.csv (Edge Hill University)
 
 Steam_Dataset (https://www.kaggle.com/datasets/andrewmvd/steam-reviews?select=dataset.csv)
 
