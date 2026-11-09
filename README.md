@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Walrus Dev logo" width="120">
+<img src="Walruslogo.png" alt="Walrus Dev logo" width="120">
 
 # Sentiment Analyzer
 
